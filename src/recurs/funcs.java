@@ -17,9 +17,9 @@ public class funcs {
 
 	
 	public static void main (String[] args) {
-		System.out.println("Решение задачи 1");
+		System.out.println("Р—Р°РґР°С‡Р° 1");
 		z1(3);
-		System.out.println("Решение задачи 2");
+		System.out.println("Р—Р°РґР°С‡Р° 2");
 		z2(5);
 	}
 
